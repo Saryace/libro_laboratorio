@@ -4,6 +4,26 @@ Códigos de conducta y reglas para trabajo de investigación en el Environmental
 # Bienvenidos
 Inspirado en los lab handbooks de [Lowe Lab UCDavis](https://lowepowerlab.ucdavis.edu/lab_handbook/) y [Aly Lab UCBerkeley](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), a continuación se describen formalidades y códigos de conducta asociados a trabajos de investigación digiridos por Sara Acevedo (la profesora a cargo del lab). Si bien a la fecha (2024) como laboratorio no tenemos espacio físico, esto cambiará en el corto plazo, y definir límites y expectativas para los trabajos de investigación es importante para tener una experiencia agradable en el lab. 
 
+# Código de conducta
+Basado en el código de conducta del [Mckinney Lab McGill University](https://mckinneylab.weebly.com/lab-code-of-conduct.html) y en los principios de la Universidad y personales de Sara, se presenta el siguiente código de conducta:
+1. Profesionalismo.
+  Respeta el tiempo de todos. Sé puntual y preséntate preparado para el trabajo de laboratorio/oficina/reuniones.
+  Asegúrate de mantener tu espacio de trabajo y los espacios comunes (laboratorio, oficinas) limpios y organizados.
+  Mantén un ambiente positivo en la medida de lo posible
+  Acepta la responsabilidad de los errores que surjan y toma medidas para corregirlos
+  Se consciente de los límites personales de los demás
+  Asegúrese de coordinar los horarios y el espacio compartido con otros miembros del laboratorio antes de empezar a trabajar en él.
+  Dado que la comunicación por correo electrónico o texto puede malinterpretarse (debido a la falta de expresión facial o entonación de voz), asegúrese de que las comunicaciones sean claramente amables y respetuosas.
+  Responda a los correos electrónicos profesionales en un plazo razonable (normalmente <24-48 horas) y copia a Sara cuando sea necesario.
+  Tenga expectativas razonables respecto a la realización de una tarea (laboratorio, análisis de datos o trabajo escrito) y establezca conjuntamente plazos realistas
+  Mantén al grupo informado de tus progresos y de los proyectos en los que estás trabajando.
+  Asegúrate de que todos los datos generados (cuadernos de laboratorio, archivos de datos, r-code, manuscritos) están ordenados, organizados y con copias de seguridad adecuadas.
+3. Aprendizaje como prioridad.
+4. Inclusividad.
+5. Apoyo y comunidad.
+6. Tolerancia cero al acoso y discriminación.
+
+
 # Expectativas
 ## Que puedes esperar de mi (Sara, la profesora a cargo del lab y equipo de investigación) 
 1. **Estableceré la trayectoria científica del laboratorio y proporcionaré los medios requeridos**. Estaré constantemente buscando fuentes de financiamiento para la investigación y buscando colaboradores para mejorar nuestro trabajo. Siempre las ideas nuevas son bienvenidas y te animo a proponerlas, pero tenemos que asegurarnos de que habrá financiamiento para tu materiales y mantención personal.
