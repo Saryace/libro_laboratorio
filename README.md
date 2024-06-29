@@ -7,8 +7,8 @@ Inspirado en los lab handbooks de [Lowe Lab UCDavis](https://lowepowerlab.ucdavi
 # Código de conducta
 Basado en el código de conducta del [Mckinney Lab McGill University](https://mckinneylab.weebly.com/lab-code-of-conduct.html) y en los principios de la Universidad y personales de Sara, se presenta el siguiente código de conducta:
 1. Profesionalismo.
-  Respeta el tiempo de todos. Sé puntual y preséntate preparado para el trabajo de laboratorio/oficina/reuniones.
-  Asegúrate de mantener tu espacio de trabajo y los espacios comunes (laboratorio, oficinas) limpios y organizados.
+- Respeta el tiempo de todos. Sé puntual y preséntate preparado para el trabajo de laboratorio/oficina/reuniones.
+- Asegúrate de mantener tu espacio de trabajo y los espacios comunes (laboratorio, oficinas) limpios y organizados.
   Mantén un ambiente positivo en la medida de lo posible
   Acepta la responsabilidad de los errores que surjan y toma medidas para corregirlos
   Se consciente de los límites personales de los demás
