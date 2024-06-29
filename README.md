@@ -4,8 +4,11 @@ Códigos de conducta y reglas para trabajo de investigación en el Environmental
 # Bienvenidos
 Inspirado en los lab handbooks de [Lowe Lab UCDavis](https://lowepowerlab.ucdavis.edu/lab_handbook/) y [Aly Lab UCBerkeley](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), a continuación se describen formalidades y códigos de conducta asociados a trabajos de investigación digiridos por Sara Acevedo (la profesora a cargo del lab). Si bien a la fecha (2024) como laboratorio no tenemos espacio físico, esto cambiará en el corto plazo, y definir límites y expectativas para los trabajos de investigación es importante para tener una experiencia agradable en el lab. 
 
+Para saber más de las líneas de investigación de Sara, puedes ver [su sitio web](saryace.github.io) y su resumen de publicaciones en [Google Scholar](https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=es)
+
 # Código de conducta
-Basado en el código de conducta del [Mckinney Lab McGill University](https://mckinneylab.weebly.com/lab-code-of-conduct.html) y en los principios de la Universidad y personales de Sara, se presenta el siguiente código de conducta:
+Basado en el código de conducta del [Mckinney Lab McGill University](https://mckinneylab.weebly.com/lab-code-of-conduct.html) y en los principios de la Universidad y personales de Sara, se presenta el siguiente código de conducta, el cual debe ser aceptado antes de comenzar a trabajar o investigar en el laboratorio. Cualquier miembro del equipo tiene la libertad de apelar al código en caso de enfrentarse a cualquier situación que lo amerite, y contactarse con Sara para resolver la situación correspondiente.
+
 1. Profesionalismo.
 - Respeta el tiempo de todos. Sé puntual y preséntate preparado para el trabajo de laboratorio/oficina/reuniones.
 - Asegúrate de mantener tu espacio de trabajo y los espacios comunes (laboratorio, oficinas) limpios y organizados.
@@ -33,7 +36,7 @@ Como laboratorio nos enfocaremos siempre en tratar a todos con el mismo respeto,
 - No utilizar lenguaje o comportamientos homófobos, racistas, transfóbicos, sexistas o excluyentes.
 - Mostrar amabilidad, paciencia y tratar a todos de forma digna.
 5. Apoyo y comunidad.
-- Incluir e implicar activamente a todos los miembros del laboratorio en actividades de investigación.
+- Incluir e invitar activamente a todos los miembros del laboratorio en reuniones de investigación.
 - Ser consciente de cuánto participa y se escucha a cada persona: "ocupar espacio, hacer espacio".
 - PMantener la privacidad si alguien decide no revelar cosas sobre su vida personal.
 - Confidencialidad si alguien comparte algo personal.
@@ -43,7 +46,6 @@ Como laboratorio nos enfocaremos siempre en tratar a todos con el mismo respeto,
 **En el laboratorio no se acepta ninguna forma de acoso, violencia y discriminación**
 La Universidad lanzó un [reglamento el 2022](https://noviolenciaydiscriminacion.uc.cl/wp-content/uploads/2022/10/DR294.2022-Aprueba-texto-refundido-y-actualizado-del-Reglamento-sobre-Violencia-Sexual-Violencia-y-Discrimiacion-de-Genero-en-Contexto-Universita.pdf) sobre la no violencia y discriminación. Es obligatorio revisarlo antes de comenzar a trabajar en el laboratorio. 
 - Al interior de la Facultad de Agronomía y Sistemas Naturales hay tres personas que colaboran con la Unidad de Prevención y Apoyo a Víctimas de Violencia Sexual, Violencia y Discriminación de Género (UVG), en la implementación de estrategias y acciones que permitan acercar la Política a tu comunidad. Ellas son (7/2024) Bernardita Ramirez (brn@uc.cl), Rossana Guinocchio (rginocch@uc.cl) y Wendy Wong (wendy.wong@uc.cl). 
-
 
 # Expectativas
 ## Que puedes esperar de mi (Sara, la profesora a cargo del lab y equipo de investigación) 
