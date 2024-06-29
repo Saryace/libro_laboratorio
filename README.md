@@ -33,7 +33,7 @@ Como laboratorio nos enfocaremos siempre en tratar a todos con el mismo respeto,
 - Referirnos a los demás con los pronombres correctos de cada persona.
 - Tratarnos con profesionalismo.
 - Fomentar un entorno seguro, acogedor e integrador.
-- No utilizar lenguaje o comportamientos homófobos, racistas, transfóbicos, sexistas o excluyentes.
+- No utilizar lenguaje o comportamientos homófobos, racistas, transfóbicos, sexistas o excluyentes. Estoy incluye chistes y "memes".
 - Mostrar amabilidad, paciencia y tratar a todos de forma digna.
 5. Apoyo y comunidad.
 - Incluir e invitar activamente a todos los miembros del laboratorio en reuniones de investigación.
