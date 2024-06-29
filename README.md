@@ -9,19 +9,40 @@ Basado en el código de conducta del [Mckinney Lab McGill University](https://mc
 1. Profesionalismo.
 - Respeta el tiempo de todos. Sé puntual y preséntate preparado para el trabajo de laboratorio/oficina/reuniones.
 - Asegúrate de mantener tu espacio de trabajo y los espacios comunes (laboratorio, oficinas) limpios y organizados.
-  Mantén un ambiente positivo en la medida de lo posible
-  Acepta la responsabilidad de los errores que surjan y toma medidas para corregirlos
-  Se consciente de los límites personales de los demás
-  Asegúrese de coordinar los horarios y el espacio compartido con otros miembros del laboratorio antes de empezar a trabajar en él.
-  Dado que la comunicación por correo electrónico o texto puede malinterpretarse (debido a la falta de expresión facial o entonación de voz), asegúrese de que las comunicaciones sean claramente amables y respetuosas.
-  Responda a los correos electrónicos profesionales en un plazo razonable (normalmente <24-48 horas) y copia a Sara cuando sea necesario.
-  Tenga expectativas razonables respecto a la realización de una tarea (laboratorio, análisis de datos o trabajo escrito) y establezca conjuntamente plazos realistas
-  Mantén al grupo informado de tus progresos y de los proyectos en los que estás trabajando.
-  Asegúrate de que todos los datos generados (cuadernos de laboratorio, archivos de datos, r-code, manuscritos) están ordenados, organizados y con copias de seguridad adecuadas.
+- Mantén un ambiente positivo en la medida de lo posible
+- Acepta la responsabilidad de los errores que surjan y toma medidas para corregirlos
+- Se consciente de los límites personales de los demás
+- Asegúrese de coordinar los horarios y el espacio compartido con otros miembros del laboratorio antes de empezar a trabajar en él.
+- Dado que la comunicación por correo electrónico o texto puede malinterpretarse (debido a la falta de expresión facial o entonación de voz), asegúrese de que las comunicaciones sean claramente amables y respetuosas.
+- Responda a los correos electrónicos profesionales en un plazo razonable (normalmente <24-48 horas) y copia a Sara cuando sea necesario.
+- Tenga expectativas razonables respecto a la realización de una tarea (laboratorio, análisis de datos o trabajo escrito) y establezca conjuntamente plazos realistas
+- Mantén al grupo informado de tus progresos y de los proyectos en los que estás trabajando.
+- Asegúrate de que todos los datos generados (cuadernos de laboratorio, archivos de datos, r-code, manuscritos) están ordenados, organizados y con copias de seguridad adecuadas.
 3. Aprendizaje como prioridad.
+- Sea amable y respetuoso con los demás. Por ejemplo, los comentarios deben sean constructivos y se centren en el proyecto, y asegúrate segundo de que los comentarios recibidos se valoren (por ejemplo, ¡da las gracias!), no se tomen como algo personal y se incorporen para mejorar.
+- Respete el tiempo de todo el mundo: dé a la gente tiempo suficiente por adelantado cuando pida opiniones o ayuda sobre algo.
+- Toda investigación es igual de valiosa e importante
+- Toma la iniciativa en tu proyecto y como miembro del equipo, por ejemplo, soluciona los problemas que veas en el laboratorio, mantente al día de tu proyecto y de la bibliografía, postula a becas y otras oportunidades, etc.
+- La ciencia es colaboración, eso significa ayudar a los demás y recibir ayuda. Los miembros más veteranos del laboratorio deben ayudar a los más jóvenes y, con el tiempo, los jóvenes se convertirán en veteranos y transmitirán sus conocimientos y experiencia.
 4. Inclusividad.
+Como laboratorio nos enfocaremos siempre en tratar a todos con el mismo respeto, independientemente de su sexo, edad, raza, orientación sexual, religión, cultura, (dis)capacidad, background académico o antecedentes personales.
+- Acoger y apoyar a personas de todos los orígenes e identidades en nuestro grupo.
+- Referirnos a los demás con los pronombres correctos de cada persona.
+- Tratarnos con profesionalismo.
+- Fomentar un entorno seguro, acogedor e integrador.
+- No utilizar lenguaje o comportamientos homófobos, racistas, transfóbicos, sexistas o excluyentes.
+- Mostrar amabilidad, paciencia y tratar a todos de forma digna.
 5. Apoyo y comunidad.
+- Incluir e implicar activamente a todos los miembros del laboratorio en actividades de investigación.
+- Ser consciente de cuánto participa y se escucha a cada persona: "ocupar espacio, hacer espacio".
+- PMantener la privacidad si alguien decide no revelar cosas sobre su vida personal.
+- Confidencialidad si alguien comparte algo personal.
+- Límites con respecto a la salud física y mental, las obligaciones familiares, las prácticas religiosas, etc.
+- Las formas en que las personas pueden verse personalmente afectadas por los acontecimientos mundiales y la política.
 6. Tolerancia cero al acoso y discriminación.
+**En el laboratorio no se acepta ninguna forma de acoso, violencia y discriminación**
+La Universidad lanzó un [reglamento el 2022](https://noviolenciaydiscriminacion.uc.cl/wp-content/uploads/2022/10/DR294.2022-Aprueba-texto-refundido-y-actualizado-del-Reglamento-sobre-Violencia-Sexual-Violencia-y-Discrimiacion-de-Genero-en-Contexto-Universita.pdf) sobre la no violencia y discriminación. Es obligatorio revisarlo antes de comenzar a trabajar en el laboratorio. 
+- Al interior de la Facultad de Agronomía y Sistemas Naturales hay tres personas que colaboran con la Unidad de Prevención y Apoyo a Víctimas de Violencia Sexual, Violencia y Discriminación de Género (UVG), en la implementación de estrategias y acciones que permitan acercar la Política a tu comunidad. Ellas son (7/2024) Bernardita Ramirez (brn@uc.cl), Rossana Guinocchio (rginocch@uc.cl) y Wendy Wong (wendy.wong@uc.cl). 
 
 
 # Expectativas
