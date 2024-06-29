@@ -1,5 +1,5 @@
 # Libro Laboratorio 
-Códigos de conducta y reglas para trabajo de investigación en el Environmental Soil Physics Lab (ESP lab)
+Códigos de conducta y reglas para trabajo de investigación en el Environmental Soil Physics Lab (ESP lab), liderado por la Dra. Sara Acevedo. 
 
 # Bienvenidos
 Inspirado en los lab handbooks de [Lowe Lab UCDavis](https://lowepowerlab.ucdavis.edu/lab_handbook/) y [Aly Lab UCBerkeley](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), a continuación se describen formalidades y códigos de conducta asociados a trabajos de investigación digiridos por Sara Acevedo (la profesora a cargo del lab). Si bien a la fecha (2024) como laboratorio no tenemos espacio físico, esto cambiará en el corto plazo, y definir límites y expectativas para los trabajos de investigación es importante para tener una experiencia agradable en el lab. 
@@ -7,7 +7,7 @@ Inspirado en los lab handbooks de [Lowe Lab UCDavis](https://lowepowerlab.ucdavi
 Para saber más de las líneas de investigación de Sara, puedes ver [su sitio web](saryace.github.io) y su resumen de publicaciones en [Google Scholar](https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=es)
 
 # Código de conducta
-Basado en el código de conducta del [Mckinney Lab McGill University](https://mckinneylab.weebly.com/lab-code-of-conduct.html) y en los principios de la Universidad y personales de Sara, se presenta el siguiente código de conducta, el cual debe ser aceptado antes de comenzar a trabajar o investigar en el laboratorio. Cualquier miembro del equipo tiene la libertad de apelar al código en caso de enfrentarse a cualquier situación que lo amerite, y contactarse con Sara para resolver la situación correspondiente.
+Basado en el código de conducta del [Mckinney Lab McGill University](https://mckinneylab.weebly.com/lab-code-of-conduct.html) y en los principios de la Universidad y personales de Sara, se presenta el siguiente código de conducta, el cual debe ser aceptado antes de comenzar a trabajar o investigar en el laboratorio. Este código también aplica para instancia fuera del laboratorio donde participemos como grupo (redes sociales, conferencias, terrenos. etc.) Cualquier miembro del equipo tiene la libertad de apelar al código en caso de enfrentarse a cualquier situación que lo amerite, y contactarse con Sara para resolver la situación correspondiente.
 
 1. Profesionalismo.
 - Respeta el tiempo de todos. Sé puntual y preséntate preparado para el trabajo de laboratorio/oficina/reuniones.
@@ -83,3 +83,26 @@ Los plazos para completar los requisitos asociados a los magíster son acotados 
 9. Convertirte en un experto en tu tema. Desafíame (Sara) cuando me equivoque. 
 10. Contribuir a las tareas del laboratorio. Tiffany dividirá las tareas equitativamente.
 11. Representar al laboratorio con orgullo e integridad, y muestra respeto por los demás. Ahora eres un embajador del laboratorio. 
+
+## Salidas a terreno
+Basando en el [code of conduct for field trips the Yale](https://earth.yale.edu/field-code-conduct), adicionalmente al código de conducta general, se agregan los siguientes compromisos:
+1. Si soy el responsable del viaje (casi en todos los casos será Sara, exceptuando cuando la salida la gestione otro grupo de investigación): 
+
+- Consideraré cuidadosamente los aspectos de seguridad en la selección de los sitios, discutiendo los riesgos específicos cada región y de las actividades de todos los participantes.
+- Elaboraré un itinerario para el viaje y organizaré los contactos de emergencia para este viaje incluyendo a todos los participantes.
+- Consideraré el nivel de actividad física apropiado para todos los participantes. 
+- Consultaré con los participantes si necesitaban adaptaciones relacionadas con su discapacidad sobre cómo podía ayudarles a aprender y prosperar en el terreno.
+- Compartiré la lista de equipaje e itinerario con todos los participantes
+- Promoveré la seguridad y comodidad de todos los participantes en el viaje, proporcionando equipo de seguridad especializado cuando fuera necesario, agendando paradas para ir al baño idealmente cada dos horas y asegurándome de que los conductores pudieran conducir de forma segura (durmiendo lo suficiente y con conductores de apoyo cuando fuera posible).
+
+2. Si soy participante del terreno, me preocuparé de:
+-  Comentar cualquier problema con los organizadores del viaje y con mis compañeros de viaje. Con el fin de prepararme para el viaje, se me ha informado con antelación de las opciones de formación en las que podría participar para aumentar mi nivel de comodidad y experiencia. He revisado la información requerida, rellenado los cuestionarios de contactos de emergencia y dietéticos requeridos. De buena fe, he proporcionado al responsable del viaje, de forma confidencial si es necesario, cualquier información médica que pueda ser relevante para mi salud y seguridad en el campo.
+- Haber recibido y revisado el itinerario. Haber sido informado de los aspectos específicos del terreno y de la cultura que pueden afectar a mi comodidad y seguridad personales, y acepto los desafíos tal y como me han sido descritos. No obstante, como se indica más adelante, puedo solicitar que me retiren del terreno si considero que el entorno no es seguro. 
+- Tener acceso a materiales y suministros de primeros auxilios, y espero que los líderes y posiblemente los compañeros de viaje (incluido yo mismo) reciban formación sobre cómo utilizarlos.
+- Detallar como acceder a un espacio personal, libre de intimidación o acoso. No se me puede obligar a participar en situaciones en las que un desequilibrio de poder pueda causar daño o una incomodidad excesiva. Puedo hacer aportaciones y comentarios sobre tareas y actividades de grupo.
+- Espero tener acceso a cuidados personales. Aunque comprendo que las instalaciones higiénicas pueden estar por debajo de las normas del campus, tengo derecho a unas condiciones sanitarias, de descanso y de sueño que se ajusten a las circunstancias. 
+- Espero tener acceso a una alimentación adecuada y en ningún momento se me debe obligar o sentir obligado a consumir alcohol, para lo cual siempre debe haber alternativas disponibles. He tenido la oportunidad de comunicar y hacer los arreglos necesarios para las restricciones dietéticas y las necesidades médicas rellenando un cuestionario previo a la salida.
+- Espero que se me den los medios para contactar y notificar a un defensor del campus (ver código de conducta) en caso de que surja una situación inapropiada o peligrosa. Espero tener acceso a la comunicación en un lugar privado cuando sea necesario, sin que se me hagan preguntas.
+
+## Software y análisis de datos
+
