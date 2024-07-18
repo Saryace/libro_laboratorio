@@ -1,5 +1,5 @@
-# Libro Laboratorio 
-Códigos de conducta y reglas para trabajo de investigación en el Environmental Soil Physics Lab (ESP lab), liderado por la Dra. Sara Acevedo. 
+# Libro de laboratorio
+Códigos de conducta y reglas para trabajo de investigación en el (nombre de laboratorio por definir), liderado por la Dra. Sara Acevedo. 
 
 # Bienvenidos
 Inspirado en los lab handbooks de [Lowe Lab UCDavis](https://lowepowerlab.ucdavis.edu/lab_handbook/) y [Aly Lab UCBerkeley](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), a continuación se describen formalidades y códigos de conducta asociados a trabajos de investigación digiridos por Sara Acevedo (la profesora a cargo del lab). Si bien a la fecha (2024) como laboratorio no tenemos espacio físico, esto cambiará en el corto plazo, y definir límites y expectativas para los trabajos de investigación es importante para tener una experiencia agradable en el lab. 
@@ -12,22 +12,24 @@ Basado en el código de conducta del [Mckinney Lab McGill University](https://mc
 1. Profesionalismo.
 - Respeta el tiempo de todos. Sé puntual y preséntate preparado para el trabajo de laboratorio/oficina/reuniones.
 - Asegúrate de mantener tu espacio de trabajo y los espacios comunes (laboratorio, oficinas) limpios y organizados.
-- Mantén un ambiente positivo en la medida de lo posible
-- Acepta la responsabilidad de los errores que surjan y toma medidas para corregirlos
-- Se consciente de los límites personales de los demás
+- Mantén un ambiente positivo en la medida de lo posible.
+- Acepta la responsabilidad de los errores que surjan y toma medidas para corregirlos.
+- Se consciente de los límites personales de los demás.
 - Asegúrese de coordinar los horarios y el espacio compartido con otros miembros del laboratorio antes de empezar a trabajar en él.
 - Dado que la comunicación por correo electrónico o texto puede malinterpretarse (debido a la falta de expresión facial o entonación de voz), asegúrese de que las comunicaciones sean claramente amables y respetuosas.
 - Responda a los correos electrónicos profesionales en un plazo razonable (normalmente <24-48 horas) y copia a Sara cuando sea necesario.
-- Tenga expectativas razonables respecto a la realización de una tarea (laboratorio, análisis de datos o trabajo escrito) y establezca conjuntamente plazos realistas
+- Tenga expectativas razonables respecto a la realización de una tarea (laboratorio, análisis de datos o trabajo escrito) y establezca conjuntamente plazos realistas.
 - Mantén al grupo informado de tus progresos y de los proyectos en los que estás trabajando.
-- Asegúrate de que todos los datos generados (cuadernos de laboratorio, archivos de datos, r-code, manuscritos) están ordenados, organizados y con copias de seguridad adecuadas.
-3. Aprendizaje como prioridad.
+- Asegúrate de que todos los datos generados (cuadernos de laboratorio, archivos de datos, código, manuscritos) están ordenados, organizados y con copias de seguridad adecuadas.
+  
+2. Aprendizaje como prioridad.
 - Sea amable y respetuoso con los demás. Por ejemplo, los comentarios deben sean constructivos y se centren en el proyecto, y asegúrate segundo de que los comentarios recibidos se valoren (por ejemplo, ¡da las gracias!), no se tomen como algo personal y se incorporen para mejorar.
 - Respete el tiempo de todo el mundo: dé a la gente tiempo suficiente por adelantado cuando pida opiniones o ayuda sobre algo.
-- Toda investigación es igual de valiosa e importante
+- Toda investigación es igual de valiosa e importante.
 - Toma la iniciativa en tu proyecto y como miembro del equipo, por ejemplo, soluciona los problemas que veas en el laboratorio, mantente al día de tu proyecto y de la bibliografía, postula a becas y otras oportunidades, etc.
 - La ciencia es colaboración, eso significa ayudar a los demás y recibir ayuda. Los miembros más veteranos del laboratorio deben ayudar a los más jóvenes y, con el tiempo, los jóvenes se convertirán en veteranos y transmitirán sus conocimientos y experiencia.
-4. Inclusividad.
+
+3. Inclusividad.
 Como laboratorio nos enfocaremos siempre en tratar a todos con el mismo respeto, independientemente de su sexo, edad, raza, orientación sexual, religión, cultura, (dis)capacidad, background académico o antecedentes personales.
 - Acoger y apoyar a personas de todos los orígenes e identidades en nuestro grupo.
 - Referirnos a los demás con los pronombres correctos de cada persona.
@@ -35,17 +37,18 @@ Como laboratorio nos enfocaremos siempre en tratar a todos con el mismo respeto,
 - Fomentar un entorno seguro, acogedor e integrador.
 - No utilizar lenguaje o comportamientos homófobos, racistas, transfóbicos, sexistas o excluyentes. Estoy incluye chistes y "memes".
 - Mostrar amabilidad, paciencia y tratar a todos de forma digna.
-5. Apoyo y comunidad.
+  
+4. Apoyo y comunidad.
 - Incluir e invitar activamente a todos los miembros del laboratorio en reuniones de investigación.
 - Ser consciente de cuánto participa y se escucha a cada persona: "ocupar espacio, hacer espacio".
-- PMantener la privacidad si alguien decide no revelar cosas sobre su vida personal.
-- Confidencialidad si alguien comparte algo personal.
+- Mantener la privacidad si alguien decide no revelar cosas sobre su vida personal. Confidencialidad si alguien comparte algo personal.
 - Límites con respecto a la salud física y mental, las obligaciones familiares, las prácticas religiosas, etc.
-- Las formas en que las personas pueden verse personalmente afectadas por los acontecimientos mundiales y la política.
-6. Tolerancia cero al acoso y discriminación.
+- Tener presente las formas en que las personas pueden verse personalmente afectadas por los acontecimientos mundiales y la política.
+  
+5. Tolerancia cero al acoso y discriminación.
 **En el laboratorio no se acepta ninguna forma de acoso, violencia y discriminación**
 La Universidad lanzó un [reglamento el 2022](https://noviolenciaydiscriminacion.uc.cl/wp-content/uploads/2022/10/DR294.2022-Aprueba-texto-refundido-y-actualizado-del-Reglamento-sobre-Violencia-Sexual-Violencia-y-Discrimiacion-de-Genero-en-Contexto-Universita.pdf) sobre la no violencia y discriminación. Es obligatorio revisarlo antes de comenzar a trabajar en el laboratorio. 
-- Al interior de la Facultad de Agronomía y Sistemas Naturales hay tres personas que colaboran con la Unidad de Prevención y Apoyo a Víctimas de Violencia Sexual, Violencia y Discriminación de Género (UVG), en la implementación de estrategias y acciones que permitan acercar la Política a tu comunidad. Ellas son (7/2024) Bernardita Ramirez (brn@uc.cl), Rossana Guinocchio (rginocch@uc.cl) y Wendy Wong (wendy.wong@uc.cl). 
+- Al interior de la Facultad de Agronomía y Sistemas Naturales hay tres personas que colaboran con la Unidad de Prevención y Apoyo a Víctimas de Violencia Sexual, Violencia y Discriminación de Género (UVG), en la implementación de estrategias y acciones que permitan acercar la Política a tu comunidad. Ellas son (a la fecha 7/2024) Bernardita Ramirez (brn@uc.cl), Rossana Guinocchio (rginocch@uc.cl) y Wendy Wong (wendy.wong@uc.cl). 
 
 # Expectativas
 ## Que puedes esperar de mi (Sara, la profesora a cargo del lab y equipo de investigación) 
@@ -69,7 +72,7 @@ La prioridad de ustedes como alumnos de pregrado es su carrera. Estamos contento
 7. **Incluir a Sara y a otros mentores en todas las comunicaciones relacionadas con la investigación de laboratorio**. La investigación básica puede ser un entorno competitivo, por lo que te pedimos que seas cuidadoso con los detalles que compartes sobre nuestro trabajo. Si no está seguro de lo que puede compartir y con quién, pregunta.
 8. **Lo pases bien durante tu estadía en el laboratorio**.
 
- ## Que voy a esperar de los alumnos de magíster
+ ## Que voy a esperar de los alumnos de postgrado
 Los plazos para completar los requisitos asociados a los magíster son acotados (1 año y medio a 2 años). Por esto, es importante planificar muy bien el tiempo. Como alumnos de magíster espero de ustedes sean capaces de:
 
 1. Mantener en general una actitud positiva y orientada a encontrar soluciones
@@ -78,15 +81,15 @@ Los plazos para completar los requisitos asociados a los magíster son acotados 
 4. Sean responsable de su propia productividad y horario, y mantener la flexibilidad en su horario durante emergencias y momentos críticos.
 5. Priorizar el tiempo para la investigación. Los cursos y las ayudantías son importantes, pero, en última instancia, la tesis es lo que te da el grado de magíster y te prepara para la siguiente etapa de tu carrera.
 6. Desarrollr su tesis con mi ayuda. Su tesis debe tener un artículo que aborden una pregunta científica importante. Gran parte del trabajo debe realizarse de forma independiente (aunque sea en colaboración), pero otras personas del laboratorio estarán disponibles para ayudarte.
-7. Identificar partes de su investigación que puedan ser delegadas a alumnos de pregrado. Yo (Sara) le ayudaré a reclutarlos.
+7. Identificar partes de su investigación que puedan ser delegadas a alumnos de pregrado. Yo (Sara) ayudaré a reclutarlos.
 8. Postular a becas en cada oportunidad que se presente. Aunque no te las adjudiques, esto te ayudará a recibir feedback.
 9. Convertirte en un experto en tu tema. Desafíame (Sara) cuando me equivoque. 
-10. Contribuir a las tareas del laboratorio. Tiffany dividirá las tareas equitativamente.
+10. Contribuir a las tareas del laboratorio. Sara dividirá las tareas equitativamente.
 11. Representar al laboratorio con orgullo e integridad, y muestra respeto por los demás. Ahora eres un embajador del laboratorio. 
 
 ## Salidas a terreno
 Basando en el [code of conduct for field trips the Yale](https://earth.yale.edu/field-code-conduct), adicionalmente al código de conducta general, se agregan los siguientes compromisos:
-1. Si soy el responsable del viaje (casi en todos los casos será Sara, exceptuando cuando la salida la gestione otro grupo de investigación): 
+1. Si soy el responsable del viaje (casi en todos los casos será Sara o un alumno de postgrado, exceptuando cuando la salida la gestione otro grupo de investigación): 
 
 - Consideraré cuidadosamente los aspectos de seguridad en la selección de los sitios, discutiendo los riesgos específicos cada región y de las actividades de todos los participantes.
 - Elaboraré un itinerario para el viaje y organizaré los contactos de emergencia para este viaje incluyendo a todos los participantes.
@@ -98,11 +101,38 @@ Basando en el [code of conduct for field trips the Yale](https://earth.yale.edu/
 2. Si soy participante del terreno, me preocuparé de:
 -  Comentar cualquier problema con los organizadores del viaje y con mis compañeros de viaje. Con el fin de prepararme para el viaje, se me ha informado con antelación de las opciones de formación en las que podría participar para aumentar mi nivel de comodidad y experiencia. He revisado la información requerida, rellenado los cuestionarios de contactos de emergencia y dietéticos requeridos. De buena fe, he proporcionado al responsable del viaje, de forma confidencial si es necesario, cualquier información médica que pueda ser relevante para mi salud y seguridad en el campo.
 - Haber recibido y revisado el itinerario. Haber sido informado de los aspectos específicos del terreno y de la cultura que pueden afectar a mi comodidad y seguridad personales, y acepto los desafíos tal y como me han sido descritos. No obstante, como se indica más adelante, puedo solicitar que me retiren del terreno si considero que el entorno no es seguro. 
-- Tener acceso a materiales y suministros de primeros auxilios, y espero que los líderes y posiblemente los compañeros de viaje (incluido yo mismo) reciban formación sobre cómo utilizarlos.
-- Detallar como acceder a un espacio personal, libre de intimidación o acoso. No se me puede obligar a participar en situaciones en las que un desequilibrio de poder pueda causar daño o una incomodidad excesiva. Puedo hacer aportaciones y comentarios sobre tareas y actividades de grupo.
+- Tener acceso a materiales y suministros de primeros auxilios, y espero que los líderes y posiblemente los compañeros de viaje reciban formación sobre cómo utilizarlos.
+- Detallar como acceder a un espacio personal, libre de intimidación o acoso. No se me puede obligar a participar en situaciones en las que un desequilibrio de poder pueda causar daño o una incomodidad excesiva. 
 - Espero tener acceso a cuidados personales. Aunque comprendo que las instalaciones higiénicas pueden estar por debajo de las normas del campus, tengo derecho a unas condiciones sanitarias, de descanso y de sueño que se ajusten a las circunstancias. 
 - Espero tener acceso a una alimentación adecuada y en ningún momento se me debe obligar o sentir obligado a consumir alcohol, para lo cual siempre debe haber alternativas disponibles. He tenido la oportunidad de comunicar y hacer los arreglos necesarios para las restricciones dietéticas y las necesidades médicas rellenando un cuestionario previo a la salida.
-- Espero que se me den los medios para contactar y notificar a un defensor del campus (ver código de conducta) en caso de que surja una situación inapropiada o peligrosa. Espero tener acceso a la comunicación en un lugar privado cuando sea necesario, sin que se me hagan preguntas.
+- Espero que se me den los medios para contactar y notificar (ver código de conducta) en caso de que surja una situación inapropiada o peligrosa. Espero tener acceso a la comunicación en un lugar privado cuando sea necesario, sin que se me hagan preguntas.
 
-## Software y análisis de datos
+## Software, análisis de datos y libro de laboratorio
+En este laboratorio promovemos la ciencia abierta y reproducible. Por esto, el uso de herramientas que aseguren reproducibilidad como scripts (R o Python) más buenas prácticas en el análisis de datos son requeridad para ser parte de este grupo de investigación. Sara hará entrenamientos básicos en estas materias y ha dictado talleres de R introductorios en [RLadies Chile](https://vimeo.com/rladieschile). El uso de actas de laboratorio es obligatorio, las cuales no pueden salir de la Facultad. En el mediano plazo, se espera que exploremos la opción de actas digitales. 
+
+Conceptos generales
+- El etiquetado y numeración de muestras y archivos es definido acorde a estandáres, los cuales deben seguirse al pie de la letra.
+- El etiquetado y numeración de muestras y archivos debe ser consistente tanto en versiones electrónicas como en papel.
+- Fuentes de datos originales como archivos .csv y .xls(x) no deben ser alterados. 
+- Mientras sea en base a software libre y enfocado en ciencia reproducible, bienvenidad las nuevas ideas.
+
+Herramientas básicas se enlistan a continuación
+
+- [RStudio](https://posit.co/products/open-source/rstudio/)  IDE ideal para R 
+- [VSCode](https://code.visualstudio.com/) IDE ideal para Python
+- [Quarto](https://quarto.org/) textos, html, reproducibles
+- [Github](https://github.com) plataforma para alojamiento de código que utiliza Git, un sistema de control de versiones
+- [Paper sobre manejo de datos de Broman and Woo 2017](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+
+## Redes sociales y página web
+Comunicar ciencia en todas las plataformas posibles es una forma de luchar contra la desinformación y sesgos. El laboratorio tiene un sitio web formal (por definir) y una cuenta de instagram (por definir). 
+
+- Nunca fotografíar personas sin permiso. Si hay actividades publicas intentar fotografiar los espacios, no a las personas directamente.
+- Nunca diseminar contenido sin permiso. Fotos de poster en congresos y slides de reuniones cerradas al público deben ser consultadas por sus autores antes de compartirlas. 
+- Mantener el mismo código de conducta general en redes sociales del laboratorio. Especialmente en "trends" o "memes"
+- En caso de dudas, siempre detenerse y consultar antes de postear. A veces algunos "trends" pueden ser malinterpretados. 
+- Siempre privilegiar el posteo de hitos del lab, publicaciones, temas de interés en ciencias del suelo antes que otros contenidos.
+- Siempre privilegiar compartir contenido asociado a la Universidad.
+
+
 
