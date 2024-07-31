@@ -122,10 +122,11 @@ Herramientas básicas se enlistan a continuación
 - [VSCode](https://code.visualstudio.com/) IDE ideal para Python
 - [Quarto](https://quarto.org/) textos, html, reproducibles
 - [Github](https://github.com) plataforma para alojamiento de código que utiliza Git, un sistema de control de versiones
+- [Zenodo](https://zenodo.org/) gestor de citas gratuito
 - [Paper sobre manejo de datos de Broman and Woo 2017](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 ## Redes sociales y página web
-Comunicar ciencia en todas las plataformas posibles es una forma de luchar contra la desinformación y sesgos. El laboratorio tiene un sitio web formal (por definir) y una cuenta de instagram (por definir). 
+Comunicar ciencia en todas las plataformas posibles es una forma de luchar contra la desinformación y sesgos. El laboratorio tiene un sitio web formal (por definir) y una cuenta de instagram de difusión de ciencia (por definir). 
 
 - Nunca fotografíar personas sin permiso. Si hay actividades publicas intentar fotografiar los espacios, no a las personas directamente.
 - Nunca diseminar contenido sin permiso. Fotos de poster en congresos y slides de reuniones cerradas al público deben ser consultadas por sus autores antes de compartirlas. 
@@ -134,5 +135,14 @@ Comunicar ciencia en todas las plataformas posibles es una forma de luchar contr
 - Siempre privilegiar el posteo de hitos del lab, publicaciones, temas de interés en ciencias del suelo antes que otros contenidos.
 - Siempre privilegiar compartir contenido asociado a la Universidad.
 
-
+## Proceso de escritura de manuscritos y envio de papers
+Comunicar ciencia por medio de publicaciones es clave para el proceso académico, y es importante para los estudiantes que quieren dedicarse a la academia. 
+- No es trivial escribir un paper, hay que tener una dedicación de tiempo importante y ser autocrítico con el proceso. Sara estará encargada de enseñar estos procesos.
+- Un libro ideal para comenzar con el proceso de escritura es [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241). Se tendrá disponible una copia física para su revisión.
+- Las autorías de los papers deben ser conversadas y estipuladas antes, durante y al final del proceso de escritura. Esto puede ser flexible, por lo que debe ser conversado son Sara para
+- La ética y honestidad son las bases de los avances cientifícos. La ciencia reproducible asegura que los procesos de análisis de datos sean abiertos, por lo tanto la preparación de los papers no estará desconectada con el proceso de escritura de scripts y data management.
+- La gestión de citas (referencias) es también importante para tener un proceso de escritura reproducible. Un gestor de citas abierto es [Zenodo](https://zenodo.org/).
+- La identificación de los investigadores se hace por medio de [ORCID](https://orcid.org/), un código único de 16 dígitos. Antes de comenzar con la escritura es importante registrarse y tener el código.
+- La Universidad ofrece como software de ofimática Microsoft365. Por lo tanto, Word Online será por defecto la fuente de manuscritos iniciales. Sin embargo, escribir un paper usando Quarto puede ser un desafío interesante. Por ejemplo, hay una extensión de [Quarto para journal de Elsevier](https://github.com/quarto-journals/elsevier).
+- La elección de journal es parte del proceso de escritura, ya que define el scope y como el manuscrito se ajusta. Hay muchos journals denominados "predadores", los cuales cobran altas sumas de dinero por procesos de revision de pares poco ético. Para comenzar a explorar journals, una buena opción es ingresar el manuscrito a [este buscador de journals](https://mjl.clarivate.com/home), y [revisar experiencias de investigadores](https://predatoryjournals.org/search) en journals posiblemente predatorios. 
 
