@@ -139,7 +139,7 @@ Comunicar ciencia en todas las plataformas posibles es una forma de luchar contr
 Comunicar ciencia por medio de publicaciones es clave para el proceso académico, y es importante para los estudiantes que quieren dedicarse a la academia. 
 - No es trivial escribir un paper, hay que tener una dedicación de tiempo importante y ser autocrítico con el proceso. Sara estará encargada de enseñar estos procesos.
 - Un libro ideal para comenzar con el proceso de escritura es [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241). Se tendrá disponible una copia física para su revisión.
-- Las autorías de los papers deben ser conversadas y estipuladas antes, durante y al final del proceso de escritura. Esto puede ser flexible, por lo que debe ser conversado son Sara para
+- Las autorías de los papers deben ser conversadas y estipuladas antes, durante y al final del proceso de escritura. Esto puede ser flexible, por lo que debe ser conversado son Sara y el resto de los autores con tiempo.
 - La ética y honestidad son las bases de los avances cientifícos. La ciencia reproducible asegura que los procesos de análisis de datos sean abiertos, por lo tanto la preparación de los papers no estará desconectada con el proceso de escritura de scripts y data management.
 - La gestión de citas (referencias) es también importante para tener un proceso de escritura reproducible. Un gestor de citas abierto es [Zenodo](https://zenodo.org/).
 - La identificación de los investigadores se hace por medio de [ORCID](https://orcid.org/), un código único de 16 dígitos. Antes de comenzar con la escritura es importante registrarse y tener el código.
