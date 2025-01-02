@@ -25,7 +25,9 @@
 1. Por lo general para suelos urbanos tomamos una muestra compuesta, formada por tres o cuatro subzonas de suelo, que se ubican aleatoriamente en áreas similares. 
 2. La profundidad estándar para suelos urbanos es de 5 cm (profundidad de un cilindro de suelo) 
 3. Recolectar el suelo con pala plástica y mantener en bolsas rotuladas, recolectando en total unos 500g 
-4. Se recolectan tres muestras compuestas por zona, rotuladas como norte, centro y sur. 
+4. Se recolectan tres muestras compuestas por zona, rotuladas como norte, centro y sur.
+
+[zona](https://github.com/Saryace/lbro_laboratorio/imagenes/blob/main/zona.jpeg?raw=true)
 
 # Protocolo densidad aparente de suelo
 1. Por lo general para suelos urbanos tomamos dos muestras de densidad aparente por zona, siempre muestreando al menos la zona centro.
