@@ -32,7 +32,9 @@
 # Protocolo densidad aparente de suelo
 1. Por lo general para suelos urbanos tomamos dos muestras de densidad aparente por zona, siempre muestreando al menos la zona centro.
 2. Usando un cilindro de borde biselado se extraen 250 cm3 de suelo. Se introduce el cilindro sin golpear en exceso. Luego el cilindro se extrae del suelo con ayuda de una pala o cuchillo, y luego debe emparejarse el fondo. 
-3. El volumen extraído se traspasa a una bolsa identificada con las siglas "BD" (bulk density) 
+3. El volumen extraído se traspasa a una bolsa identificada con las siglas "BD" (bulk density)
+
+![zona](https://github.com/Saryace/libro_laboratorio/blob/main/imagenes/bulk_density.png?raw=true)
 
 # Protocolo infiltración
 - Antes de medir, se debe preparar la superficie del suelo. Un buen contacto es esencial para una medición correcta. Si la superficie no es lisa, puede emparejarse con un cuchillo.
@@ -40,5 +42,19 @@
 - A menos que se indique lo contrario, ajuste la succión a 2 cm, la cual es adecuada para la mayoría de los suelos. 
 - Para iniciar el experimento, registrar el nivel inicial de agua en el tubo del depósito (tiempo = 0, volumen = volumen inicial)
 - Colocar el infiltrómetro en la superficie y cronómetrar los cambios de volumen. El nivel de agua debe registrarse a intervalos regulares (aproximadamente cada 1 o 2 mL).
-- Las mediciones tardan entre 10 y 20 minutos, donde se registran al menos 10 valores, llegando a una velocidad constante en las últimas 3 lecturas. 
+- Las mediciones tardan entre 10 y 20 minutos, donde se registran al menos 10 valores, llegando a una velocidad constante en las últimas 3 lecturas.
+
+![zona](https://github.com/Saryace/libro_laboratorio/blob/main/imagenes/infiiltro.png?raw=true)
+
+Ejemplo lectura:
+
+| Tiempo   | Volumen |
+| ------------- | ------------- |
+| 0  | 75  |
+| 35  | 74  |
+| 60  | 73  |
+| 1:15  | 72  |
+| 1:30  | 71  |
+| 1:50  | 70  |
+| 2:15  | 68  |
 
