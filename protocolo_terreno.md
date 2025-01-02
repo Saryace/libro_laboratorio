@@ -27,7 +27,7 @@
 3. Recolectar el suelo con pala plástica y mantener en bolsas rotuladas, recolectando en total unos 500g 
 4. Se recolectan tres muestras compuestas por zona, rotuladas como norte, centro y sur.
 
-[zona](https://github.com/Saryace/libro_laboratorio/blob/main/imagenes/zona.jpeg?raw=true)
+![zona](https://github.com/Saryace/libro_laboratorio/blob/main/imagenes/zona.jpeg?raw=true)
 
 # Protocolo densidad aparente de suelo
 1. Por lo general para suelos urbanos tomamos dos muestras de densidad aparente por zona, siempre muestreando al menos la zona centro.
