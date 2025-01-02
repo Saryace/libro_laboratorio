@@ -107,6 +107,9 @@ Basando en el [code of conduct for field trips the Yale](https://earth.yale.edu/
 - Espero tener acceso a una alimentación adecuada y en ningún momento se me debe obligar o sentir obligado a consumir alcohol, para lo cual siempre debe haber alternativas disponibles. He tenido la oportunidad de comunicar y hacer los arreglos necesarios para las restricciones dietéticas y las necesidades médicas rellenando un cuestionario previo a la salida.
 - Espero que se me den los medios para contactar y notificar (ver código de conducta) en caso de que surja una situación inapropiada o peligrosa. Espero tener acceso a la comunicación en un lugar privado cuando sea necesario, sin que se me hagan preguntas.
 
+3. Protocolos para muestreo
+- Los protocolos generales para el muestreo de suelo [se encuentran en este link](protocolo_terreno.md)
+
 ## Software, análisis de datos y libro de laboratorio
 En este laboratorio promovemos la ciencia abierta y reproducible. Por esto, el uso de herramientas que aseguren reproducibilidad como scripts (R o Python) más buenas prácticas en el análisis de datos son requeridad para ser parte de este grupo de investigación. Sara hará entrenamientos básicos en estas materias y ha dictado talleres de R introductorios en [RLadies Chile](https://vimeo.com/rladieschile). El uso de actas de laboratorio es obligatorio, las cuales no pueden salir de la Facultad. En el mediano plazo, se espera que exploremos la opción de actas digitales. 
 
